@@ -24,7 +24,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
 
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/Okaeri-File)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/R1Zk/Okaeri-File)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/LCrkRTMkmzE">
@@ -90,5 +90,5 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 - Thanks To [File-Sharing-Man](https://github.com//mrismanaziz/File-Sharing-Man)
 
 
-[Okaeri-File](https://github.com/Wahyu213/Okaeri-File/) is Free Software: You can use, study share and improve it at your
+[Okaeri-File]([[https://github.com/Wahyu213/Okaeri-File/](https://github.com/R1Zk/Okaeri-File)](https://github.com/R1Zk/Okaeri-File)) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
